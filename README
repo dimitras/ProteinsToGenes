@@ -1,0 +1,11 @@
+protein list for GO enrichment analysis
+
+retrieve genes from the protein description
+keep only unique proteins (deplete the redundant protein)
+
+then go to DAVID (or topGO http://www.bioconductor.org/packages/2.12/bioc/vignettes/topGO/inst/doc/topGO.pdf or GORILLA)
+go to function analysis
+paste the list of genes
+select the type of the identifies (ex. official gene symbol)
+after sbmitting, select the species (human) again
+then open the charts available in the bottom
